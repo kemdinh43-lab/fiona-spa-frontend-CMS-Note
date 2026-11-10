@@ -1,0 +1,438 @@
+{
+  "aroma-massage": {
+    "vi": {
+      "description": "Liệu pháp thư giãn toàn thân dịu nhẹ, kết hợp tinh dầu thuần khiết cùng các động tác miết vuốt mềm mại. Giúp xua tan mệt mỏi, xoa dịu tâm trí và chăm sóc làn da mịn màng.",
+      "benefits": [
+        "Hương tinh dầu dịu nhẹ cho một khoảng nghỉ thư thái.",
+        "Động tác miết vuốt giúp cơ thể thả lỏng.",
+        "Chăm sóc làn da với dầu massage."
+      ],
+      "process": [
+        "Tư vấn mùi hương và mức lực",
+        "Ngâm chân thảo mộc và khởi động cơ thể",
+        "Massage tinh dầu vùng lưng, thắt lưng, chân và tay",
+        "Chăm sóc vùng cổ, vai và hoàn tất buổi massage"
+      ]
+    },
+    "en": {
+      "description": "A gentle full-body relaxing therapy with pure essential oils and soft massage techniques, helping relieve fatigue, soothe the mind, and leave skin feeling and refreshed and rejuvenated.",
+      "benefits": [
+        "Fragrant oils set a calming mood.",
+        "Gentle massage movements invite you to unwind.",
+        "Massage oil leaves the skin feeling cared for."
+      ],
+      "process": [
+        "Discuss aroma and pressure preferences",
+        "Begin with a herbal foot soak and preparation",
+        "Oil massage for the back, lower back, legs and hands",
+        "Focus on the neck and shoulders before finishing"
+      ]
+    }
+  },
+  "four-hand-massage": {
+    "vi": {
+      "description": "Sự phối hợp đồng điệu từ 2 kỹ thuật viên giúp nhân đôi thư giãn, giải tỏa đau mỏi.",
+      "benefits": [
+        "Hai kỹ thuật viên phối hợp trong cùng một liệu trình.",
+        "Các chuyển động đồng điệu tạo trải nghiệm khác biệt.",
+        "Dành trọn thời gian để thả lỏng toàn thân."
+      ],
+      "process": [
+        "Khởi động và đồng bộ nhịp chuyển động của 2 kỹ thuật viên",
+        "Massage song song vùng lưng và chân",
+        "Vuốt miết đối xứng toàn thân",
+        "Ấn huyệt chuyên sâu vùng vai, cổ và bàn chân",
+        "Thả lỏng nhẹ nhàng, cân bằng năng lượng"
+      ]
+    },
+    "en": {
+      "description": "Synchoronized movements of two therapists create a balanced, seamless treatment from head to toe.",
+      "benefits": [
+        "Two therapists work together in one treatment.",
+        "Coordinated movements create a distinctive experience.",
+        "A dedicated moment for full-body relaxation."
+      ],
+      "process": [
+        "- Synchronized warm-up and cordinated movements by two therapists",
+        "- Synchronized back and leg massage",
+        "- Symmetrical full body gliding strokes",
+        "- Deep acupressure on shoulders, neck and feet",
+        "- Gentle relaxation to restore a sense of balance"
+      ]
+    }
+  },
+  "bamboo-massage": {
+    "vi": {
+      "description": "Trải nghiệm Bamboo Massage độc đáo với ống tre ấm nhẵn mịn. Kỹ thuật con lăn nhịp nhàng giúp giải tỏa căng cơ sâu, lưu thông khí huyết và phục hồi sức sống.",
+      "benefits": [
+        "Trải nghiệm lực lăn và miết từ thanh tre.",
+        "Kết hợp thao tác tay và dụng cụ massage.",
+        "Trao đổi mức lực để buổi chăm sóc vừa với bạn."
+      ],
+      "process": [
+        "Khởi động với thanh tre ấm",
+        "Lăn thanh tre & Miết cơ chuyên sâu",
+        "Ấn huyệt thư giãn",
+        "Kỹ thuật kết hợp Tay & Thanh tre",
+        "Thả lỏng toàn thân & Thả lỏng"
+      ]
+    },
+    "en": {
+      "description": "Experience the unique Bamboo Massage with warm, smooth bamboo sticks. The special rolling technique helps relieve deep muscle tension, improve blood circulation, and rejuvenates.",
+      "benefits": [
+        "Experience rolling and gliding movements with bamboo.",
+        "A combination of hands-on work and massage tools.",
+        "Discuss your preferred pressure for a comfortable session."
+      ],
+      "process": [
+        "Consultation on intensity level and focus areas",
+        "Warm-up with bamboo roller",
+        "Rolling and massaging major muscle groups",
+        "Combining hand massage and bamboo roller",
+        "Full body relaxation and post-session guidance"
+      ]
+    }
+  },
+  "herbal-massage": {
+    "vi": {
+      "description": "Liệu pháp massage kết hợp túi chườm thảo dược ấm giúp xua tan đau mỏi cơ, kích thích lưu thông khí huyết và giải tỏa căng thẳng hiệu quả.",
+      "benefits": [
+        "Hương thảo mộc tạo cảm giác ấm áp, dễ chịu.",
+        "Túi thảo dược được kết hợp với thao tác massage.",
+        "Một lựa chọn cho buổi nghỉ ngơi chậm rãi."
+      ],
+      "process": [
+        "Ngâm chân thảo mộc ấm và ấn nhẹ",
+        "Lăn miết túi thảo dược ấm làm mềm các vùng cơ",
+        "Đè ấn nhiệt thảo dược và kết hợp massage dầu",
+        "Vuốt điều hòa toàn thân, và hướng dẫn sau buổi"
+      ]
+    },
+    "en": {
+      "description": "Herbal Massage is a traditional therapeutic treatment that combines gentle massage techniques with the warmth of natural herbal compresses (ginger, lemongrass, licorice, reishi mushroom, etc.). The treatment helps relieve muscle aches and tension, reduce stress, and effectively support blood circulation.",
+      "benefits": [
+        "Herbal aromas bring a warm, comforting atmosphere.",
+        "Herbal compresses are paired with massage movements.",
+        "A choice for an unhurried moment of rest."
+      ],
+      "process": [
+        "Consultation on pressure level and current body condition",
+        "Herbal foot soak and warm-up",
+        "Warm herbal compress and rolling treatment",
+        "Targeted acupressure and massage",
+        "Full-body relaxation and post-treatment guidance"
+      ]
+    }
+  },
+  "physical-therapy": {
+    "vi": {
+      "description": "Massage giãn cơ chuyên sâu giải phóng các điểm cơ co cứng vùng cổ vai gáy và thắt lưng. Giúp giảm đau nhức xương khớp, cải thiện tư thế và phục hồi thể lực.",
+      "benefits": [
+        "Trao đổi những vùng cơ bạn muốn tập trung.",
+        "Điều chỉnh mức lực theo cảm nhận trong buổi massage.",
+        "Kết hợp chăm sóc vùng lưng, vai và các vùng cơ liên quan."
+      ],
+      "process": [
+        "Trao đổi vùng cơ cần tập trung và mức lực mong muốn",
+        "Khởi động nhẹ và làm quen với lực massage",
+        "Massage các vùng cơ đã trao đổi",
+        "Kéo giãn nhẹ và hoàn tất"
+      ]
+    },
+    "en": {
+      "description": "Deep Sport Massage designed to release tight muscle trigger points in the neck, shoulders, and lower back. It helps relieve muscle and joint aches, improve posture, and restore physical vitality.",
+      "benefits": [
+        "Discuss the muscle areas you want to focus on.",
+        "Communicate your preferred pressure throughout the massage.",
+        "Focused care for the back, shoulders and relevant muscle areas."
+      ],
+      "process": [
+        "Discuss focus areas and pressure preferences",
+        "Begin gently and establish a comfortable pressure",
+        "Massage the agreed muscle areas",
+        "Gentle stretches and finishing movements"
+      ]
+    }
+  },
+  "thai-massage": {
+    "vi": {
+      "description": "Liệu pháp kết hợp ấn huyệt chuyên sâu và kéo giãn cơ thể chuẩn Yoga. Giúp giải phóng căng cứng cơ, lưu thông khí huyết, mang lại cảm giác sảng khoái và tái tạo năng lượng tức thì.",
+      "benefits": [
+        "Kết hợp ấn huyệt và kéo giãn thụ động.",
+        "Chuyển động được điều chỉnh theo cảm nhận của bạn.",
+        "Một trải nghiệm massage với nhịp chăm sóc riêng."
+      ],
+      "process": [
+        "Ngâm chân thảo mộc và thả lỏng toàn thân",
+        "Dùng tay và cùi trỏ ấn sâu lên kinh mạch",
+        "Gập ấn và miết sâu dọc dải cơ lưng",
+        "Kéo giãn thụ động và mở khớp nhẹ",
+        "Ấn huyệt xoa bóp vai gáy, tái tạo năng lượng."
+      ]
+    },
+    "en": {
+      "description": "A therapeutic treatment combining deep acupressure with yoga-inspired stretching techniques to release muscle tension, improve flexibility, promote circulation, and leave you feeling refreshed and deeply relaxed.",
+      "benefits": [
+        "A combination of acupressure and assisted stretches.",
+        "Movements can be discussed according to your comfort.",
+        "A distinctive rhythm of body care."
+      ],
+      "process": [
+        "Consultation on pressure level and range of motion",
+        "Foot soak and full-body relaxation",
+        "Acupressure along the body's energy lines",
+        "Gentle passive stretching and joint mobilization",
+        "Relaxation of the neck, shoulders, and head"
+      ]
+    }
+  },
+  "foot-massage": {
+    "vi": {
+      "description": "Ấn huyệt chuẩn xác giúp kích thích lưu thông máu, giảm đau nhức tức thì sau ngày dài di chuyển hoặc đi bộ nhiều.",
+      "benefits": [
+        "Chăm sóc bàn chân và cẳng chân.",
+        "Thư giãn sau những giờ đi bộ hoặc đứng lâu.",
+        "Trao đổi mức lực trước và trong buổi massage."
+      ],
+      "process": [
+        "Ngâm chân thảo mộc và khởi động",
+        "Xoa bóp lòng bàn chân và cẳng chân",
+        "Ấn huyệt phản xạ theo mức lực phù hợp",
+        "Kéo giãn ngón chân và mắt cá nhẹ nhàng",
+        "Thả lỏng và hoàn tất liệu trình"
+      ]
+    },
+    "en": {
+      "description": "A specialized therapy focusing on the feet and lower legs. Precise reflexology acpressure helps promote circulation and provide immediate relief from aches and fatigue after a long day of travel or extensive walking.",
+      "benefits": [
+        "Care focused on the feet and lower legs.",
+        "A pause after time spent walking or standing.",
+        "Discuss your pressure preference before and during the session."
+      ],
+      "process": [
+        "Herbal foot soak and warm-up",
+        "Foot and calf massage",
+        "Acupressure with customized pressure",
+        "Gentle stretching of toes and ankles",
+        "Relaxation and completion of the treatment"
+      ]
+    }
+  },
+  "shampoo-wash-hair": {
+    "vi": {
+      "description": "Dịch vụ gội đầu thư giãn gồm 2 lần gội sạch sâu, 1 lần xả mượt tóc kết hợp massage ấn huyệt da đầu. Giúp giải tỏa căng thẳng và nuôi dưỡng mái tóc chắc khỏe.",
+      "benefits": [
+        "Làm sạch tóc và da đầu.",
+        "Kết hợp gội đầu với các thao tác massage thư giãn.",
+        "Hoàn thiện với bước dưỡng và sấy tóc."
+      ],
+      "process": [
+        "Khai huyệt, kích thích giác quan",
+        "Gội đầu với dầu gội cặp",
+        "Massage cổ & vai gáy",
+        "Tinh chất dưỡng tóc",
+        "Sấy & tạo kiểu"
+      ]
+    },
+    "en": {
+      "description": "This relaxing hair wash service includes two deep cleansing washes, one smoothing rinse, and a scalp acupressure massage. It helps relieve stress while leaving your hair feeling clean, nourished, and refreshed.",
+      "benefits": [
+        "Cleanse the hair and scalp.",
+        "Pair a hair wash with relaxing massage movements.",
+        "Finish with conditioning and drying."
+      ],
+      "process": [
+        "Consultation",
+        "Scalp and hair cleansing",
+        "Shampoo massage",
+        "Rinse and finishing treatment"
+      ]
+    }
+  },
+  "facial": {
+    "vi": {
+      "description": "Chăm sóc da mặt giúp thanh lọc độc tố, tái tạo năng lượng và xua tan mệt mỏi. Liệu trình nuôi dưỡng chuyên sâu mang lại làn da sạch mịn, căng bóng và rạng rỡ tự nhiên.",
+      "benefits": [
+        "Làm sạch và chăm sóc da mặt.",
+        "Các bước chăm sóc được trao đổi theo tình trạng da.",
+        "Kết hợp thời gian nghỉ ngơi với chăm sóc sắc đẹp."
+      ],
+      "process": [
+        "Tư vấn tình trạng da và tẩy trang",
+        "Làm sạch sâu và tẩy tế bào chết dịu nhẹ",
+        "Xông hơi và làm sạch dầu thừa, bã nhờn",
+        "Massage mặt, cổ vai gáy và da đầu",
+        "Đắp mặt nạ, thoa serum và dưỡng ẩm",
+        "Hoàn thiện bằng kem chống nắng"
+      ]
+    },
+    "en": {
+      "description": "Comprehensive facial care: cleansing, excess oil remover, exfoliation, face mask application, and facial massage. It helps deeply cleanse, brighten skin, and relieve fatigue",
+      "benefits": [
+        "Cleansing and care for facial skin.",
+        "Discuss the steps according to your skin condition.",
+        "Combine a quiet break with beauty care."
+      ],
+      "process": [
+        "Skin consultation and makeup removal",
+        "Deep cleansing and gentle exfoliation",
+        "Steaming and removal of excess oil and sebum",
+        "Facial, neck, shoulder, and scalp massage",
+        "Mask application, serum application, and moisturizing",
+        "Finishing with sunscreen"
+      ]
+    }
+  },
+  "eyelash-extensions": {
+    "vi": {
+      "description": "Chọn độ dài và phong cách yêu thích, sau đó tận hưởng quy trình nối tỉ mỉ cho vẻ ngoài cân đối, hài hòa.",
+      "benefits": [
+        "Lựa chọn phong cách mi phù hợp với mong muốn.",
+        "Trao đổi về dáng mi trước khi thực hiện.",
+        "Được hướng dẫn cách chăm sóc sau dịch vụ."
+      ],
+      "process": [
+        "Tư vấn phong cách",
+        "Làm sạch mi",
+        "Nối mi",
+        "Chăm sóc hoàn thiện"
+      ]
+    },
+    "en": {
+      "description": "Choose your preferred length and style, then enjoy the meticulous eyelash extension process for a beautiful, well-balanced look.",
+      "benefits": [
+        "Choose a lash style that suits your preferences.",
+        "Discuss the desired look before the service.",
+        "Receive aftercare guidance for your lashes."
+      ],
+      "process": [
+        "Style consultation",
+        "Lash cleansing",
+        "Eyelash extension application",
+        "Finishing care"
+      ]
+    }
+  },
+  "eyebrow": {
+    "vi": {
+      "description": "Tạo dáng chân mày tự nhiên (Phun/Đi sợi) giúp tôn lên đường nét khuôn mặt, mang lại dáng mày sắc nét, đều màu, giúp bạn tự tin rạng rỡ.",
+      "benefits": [
+        "Tư vấn dáng và màu chân mày.",
+        "Phác thảo để trao đổi trước khi thực hiện.",
+        "Được hướng dẫn chăm sóc sau dịch vụ."
+      ],
+      "process": [
+        "Tư vấn nhu cầu và đánh giá dáng mày",
+        "Phác thảo dáng",
+        "Vệ sinh, chuẩn bị vùng chân mày",
+        "Thực hiện kỹ thuật đã chọn",
+        "Kiểm tra độ cân đối và hướng dẫn chăm sóc"
+      ]
+    },
+    "en": {
+      "description": "After a brow-shape consultation, the technician performs eyebrow PMU or microblading with cosmetic pigment. Shape, color and intensity are agreed before the service; results may vary with skin type and aftercare.",
+      "benefits": [
+        "Discuss brow shape and colour.",
+        "Review the proposed shape before the service.",
+        "Receive aftercare guidance."
+      ],
+      "process": [
+        "Consultation and brow assessment",
+        "Brow mapping and color selection",
+        "Brow cleansing and preparation",
+        "Application of the selected technique",
+        "Symmetry check and aftercare guidance"
+      ]
+    }
+  },
+  "lip": {
+    "vi": {
+      "description": "Giải pháp khử thâm và phun môi Lip Blushing hiện đại, giúp loại bỏ triệt để sắc tố xỉn màu. Mang lại đôi môi tươi tắn, mềm mịn, chuẩn tông da mà không mất thời gian thoa son mỗi ngày.",
+      "benefits": [
+        "Trao đổi nhu cầu về màu và nền môi.",
+        "Được tư vấn lựa chọn kỹ thuật phù hợp.",
+        "Hướng dẫn chăm sóc sau buổi thực hiện."
+      ],
+      "process": [
+        "Thăm khám nền môi và tư vấn dáng, màu môi",
+        "Làm sạch, tẩy tế bào chết và ủ tê chuyên dụng",
+        "Phun/Khử thâm môi",
+        "Thoa tinh chất khóa màu và hướng dẫn chăm sóc tại nhà"
+      ]
+    },
+    "en": {
+      "description": "We offer: dark lip neutralization, lip blushing and a combined treatment. Before the service, the technician recommends a shade based on your natural lip tone, skin tone and preferred style; results may vary with individual response and aftercare.",
+      "benefits": [
+        "Discuss your preferred colour and existing lip tone.",
+        "Ask about the appropriate service option.",
+        "Receive guidance on care after your appointment."
+      ],
+      "process": [
+        "Lip assessment and color consultation",
+        "Cleansing, exfoliation and numbing",
+        "Lip blush & dark lip neutralization",
+        "Color lock & aftercare"
+      ]
+    }
+  },
+  "nails": {
+    "vi": {
+      "description": "Thiết kế móng cá nhân hóa theo gu riêng với phom dáng chuẩn đẹp, mỏng nhẹ tự nhiên, giúp đôi bàn tay luôn chỉn chu, sang trọng.",
+      "benefits": [
+        "Lựa chọn màu và phong cách móng.",
+        "Trao đổi mẫu thiết kế trước khi thực hiện.",
+        "Hoàn thiện bộ móng theo lựa chọn của bạn."
+      ],
+      "process": [
+        "Tư vấn phong cách",
+        "Chuẩn bị móng",
+        "Nối hoặc thiết kế móng",
+        "Chăm sóc hoàn thiện"
+      ]
+    },
+    "en": {
+      "description": "Choose your preferred shape, length, color, and design for a beautifully personalized set, finished with meticulous attention to detail.\nPerfectly shaped, lightweight and comfortable, with a durable finish that feels just like your natural nails.",
+      "benefits": [
+        "Choose your nail colour and style.",
+        "Discuss the design before the service.",
+        "Finish your nails in your chosen look."
+      ],
+      "process": [
+        "Style consultation",
+        "Nail preparation",
+        "Nail extensions or custom design",
+        "Finishing care"
+      ]
+    }
+  },
+  "waxing": {
+    "vi": {
+      "description": "Dịch vụ Waxing bằng sáp cao cấp giúp loại bỏ sạch gốc lông, trả lại làn da mịn màng, sáng khỏe.",
+      "benefits": [
+        "Trao đổi vùng da cần thực hiện.",
+        "Làm sạch và chuẩn bị da trước khi waxing.",
+        "Kết thúc bằng bước chăm sóc làm dịu."
+      ],
+      "process": [
+        "Kiểm tra da & Chọn loại sáp",
+        "Làm sạch & Cân bằng da",
+        "Waxing dọn sạch gốc lông",
+        "Thoa tinh chất làm dịu & Thả lỏng"
+      ]
+    },
+    "en": {
+      "description": "Indulge in a premium waxing experience that gently removes hair from the root, leaving your skin silky smooth, soft, and beautifully radiant.",
+      "benefits": [
+        "Discuss the area you would like treated.",
+        "Cleanse and prepare the skin before waxing.",
+        "Finish with soothing care."
+      ],
+      "process": [
+        "Skin assessment and wax selection",
+        "Gentle cleansing and skin balancing",
+        "Expert waxing to remove hair from the root",
+        "Soothing & restorative serum application"
+      ]
+    }
+  }
+}

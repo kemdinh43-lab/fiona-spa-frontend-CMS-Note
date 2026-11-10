@@ -1,0 +1,64 @@
+/* One treatment sample: compact overview and a centred editorial column. */
+.aroma-sample{background:#fff}
+.aroma-sample .service-overview{background:#f7f4ee;padding-bottom:42px}
+.aroma-sample .service-breadcrumb{padding:21px 0;font-size:11px;gap:10px}
+.aroma-sample .service-overview-grid{grid-template-columns:1fr 1fr;gap:26px;align-items:start}
+.aroma-sample .detail-main-photo{aspect-ratio:1.5;background:#e7ded1}
+.aroma-sample .detail-main-photo button{width:36px;height:44px;background:transparent;font-size:33px}
+.aroma-sample .detail-main-photo button:hover{background:#21190f55}
+.aroma-sample .detail-thumbnails{gap:8px;margin-top:9px}
+.aroma-sample .detail-thumbnails button{aspect-ratio:1.9;max-width:none;flex-basis:calc((100% - 24px)/4);border-width:1px}
+.aroma-sample .service-overview-copy{padding:0}
+.aroma-sample .service-overview-copy .eyebrow{font-family:var(--display);letter-spacing:1.5px;font-size:11px;margin-bottom:9px;color:#aa8053}
+.aroma-sample .service-overview-copy h1{font-size:32px;line-height:1.25;letter-spacing:-.4px;font-weight:600;margin-bottom:18px;color:#48515a}
+.aroma-sample .detail-lead{font-size:13px;line-height:1.8;color:#7c776f;margin-bottom:18px}
+.aroma-sample .detail-price-table{border:0;background:transparent;margin:0 0 15px;box-shadow:none}
+.aroma-sample .detail-price-row{background:#fff;border:1px solid #eee8df;border-radius:3px;padding:11px 14px;font-size:12px;margin-bottom:7px;min-height:44px;max-width:400px}
+.aroma-sample .detail-price-row .icon{color:#a58052;width:14px;height:14px}
+.aroma-sample .detail-price-row strong{font-size:14px;font-weight:600;color:#a44f32}
+.aroma-sample .detail-price-note{font-size:10px;line-height:1.8;margin:0 0 18px;color:#8b8072}
+.aroma-sample .detail-actions{gap:10px}
+.aroma-sample .detail-actions .button{min-height:42px;padding:10px 18px;border-radius:24px;font-size:10px;font-weight:500;gap:10px}
+.aroma-sample .detail-actions .button-outline{border-color:#d9cbb9}
+.aroma-sample .detail-facts{font-size:10px;line-height:1.6;gap:9px;margin-top:19px;flex-direction:row;flex-wrap:wrap;color:#8b7e6d}
+.aroma-sample .detail-facts .icon{width:13px;height:13px}
+.aroma-sample .service-article{width:min(800px,calc(100% - 48px));max-width:none;padding:48px 0 55px;margin:0 auto;font-family:var(--body);font-size:15px;line-height:1.65;color:#353535}
+.aroma-sample .service-article p{font-size:15px;line-height:1.65;color:#3f3f3f;margin-bottom:19px}
+.aroma-sample .service-article>h2{font-family:var(--body);font-size:20px;line-height:1.5;font-weight:700;letter-spacing:0;color:#9b6d3f;margin:30px 0 19px;padding-bottom:8px;border-bottom:1px solid #eee}
+.aroma-sample .service-article>h2:first-child{margin:0 0 28px;text-align:center;color:#303030;border:0;font-size:18px}
+.aroma-sample .service-article h3{font-family:var(--body);font-size:15px;font-weight:700;line-height:1.6;letter-spacing:0;color:#333;margin:23px 0 12px}
+.aroma-sample .service-article .wp-block-image{margin:24px 0}
+.aroma-sample .service-article .wp-block-image img{width:100%;height:auto;border-radius:0;aspect-ratio:auto}
+.aroma-sample .service-article figcaption{font-size:11px;line-height:1.65;color:#777;font-style:italic;background:#f3f1ed;text-align:center;padding:9px 13px}
+.aroma-sample .service-article ul,.aroma-sample .service-article ol{color:#3f3f3f;padding-left:22px;margin:16px 0 22px}
+.aroma-sample .service-article li{margin:9px 0;line-height:1.75;padding-left:3px}
+.aroma-sample .sample-price-card{display:grid;grid-template-columns:.95fr 1.05fr;border-radius:7px;overflow:hidden;background:#fff;box-shadow:0 3px 20px #31211515;margin:22px 0 30px;padding:12px;gap:24px;border:1px solid #f4f0e9}
+.aroma-sample .sample-price-card>img{width:100%;height:100%;min-height:220px;object-fit:cover;border-radius:5px}
+.aroma-sample .sample-price-card>div{align-self:center;padding:10px 7px 10px 0;text-align:center}
+.aroma-sample .sample-price-card h2{font-family:var(--display);color:#48515a;font-size:25px;font-weight:600;letter-spacing:0;margin:0 0 20px;line-height:1.3}
+.aroma-sample .sample-price-card .detail-price-row{border:0;border-bottom:1px solid #eee;border-radius:0;max-width:none;padding:12px 0;text-align:left}
+.aroma-sample .sample-price-card .button{border-radius:24px;min-height:40px;padding:9px 20px;font-size:10px}
+.aroma-sample .service-article>.detail-price-table{padding:16px 20px;background:#fbf8f2;border:1px solid #eadfcc;border-radius:3px;margin:15px 0 20px}
+.aroma-sample .service-article>.detail-price-table .detail-price-row{max-width:none;background:transparent;border:0;border-bottom:1px solid #e8dfd0;margin:0;padding:7px 0}
+.aroma-sample .service-article>.detail-price-table .detail-price-row:last-child{border:0}
+.aroma-sample .service-article details{padding:17px 0;border-top:1px solid #eee}
+.aroma-sample .service-article summary{font-size:13px;line-height:1.75;font-weight:600;min-height:30px;color:#333}
+.aroma-sample .service-article details p{font-size:13px;color:#555;margin:12px 0 0}
+.aroma-sample .detail-contact{margin:35px 0 0;padding:28px;background:#fffaf2;border:1px solid #ead7b9;text-align:left}
+.aroma-sample .detail-contact .eyebrow{font-size:9px;color:#a78052;letter-spacing:1.5px;margin-bottom:12px}
+.aroma-sample .detail-contact h2{font-family:var(--display);font-size:30px;color:#48515a;line-height:1.25;margin:0 0 15px}
+.aroma-sample .detail-contact>p:not(.eyebrow){font-size:13px;color:#665c50;line-height:1.8;margin-bottom:20px}
+.aroma-sample .detail-contact .button{border-radius:24px;min-height:40px;font-size:10px;padding:10px 19px}
+.aroma-sample .detail-contact-address{font-size:11px;margin:20px 0 10px}
+.aroma-sample .detail-contact .text-link{font-size:11px}
+.aroma-sample .detail-related{background:#f7f4ee;padding:45px 0 50px}
+.aroma-sample .detail-related .section-heading{margin-bottom:28px}
+.aroma-sample .detail-related .section-heading .eyebrow{font-size:9px;margin-bottom:10px}
+.aroma-sample .detail-related .section-heading h2{font-size:30px;letter-spacing:0;color:#48515a}
+.aroma-sample .detail-related .service-grid{gap:22px}
+.aroma-sample .detail-related .service-image{aspect-ratio:1.05}
+.aroma-sample .detail-related .service-copy h3{font-size:21px;font-weight:500;letter-spacing:0;margin-bottom:12px;color:#48515a}
+.aroma-sample .detail-related .service-summary{font-size:11px;line-height:1.8}
+.aroma-sample .detail-related .service-price strong{font-size:14px;font-weight:500}
+@media(max-width:900px) and (min-width:601px){.aroma-sample .service-overview-grid{gap:22px}.aroma-sample .service-overview-copy h1{font-size:29px}.aroma-sample .detail-actions .button{width:auto}.aroma-sample .detail-main-photo{aspect-ratio:1.1}}
+@media(max-width:600px){.aroma-sample .service-overview{padding-bottom:30px}.aroma-sample .service-overview>.shell{width:calc(100% - 32px)}.aroma-sample .service-overview-grid{grid-template-columns:1fr;gap:18px}.aroma-sample .service-breadcrumb{font-size:10px;padding:17px 0;gap:7px}.aroma-sample .detail-main-photo{aspect-ratio:1.5}.aroma-sample .detail-thumbnails button{aspect-ratio:1.5}.aroma-sample .service-overview-copy h1{font-size:29px;margin-bottom:14px}.aroma-sample .service-overview-copy .eyebrow{font-size:10px}.aroma-sample .detail-lead{font-size:13px}.aroma-sample .detail-price-row{max-width:none}.aroma-sample .detail-actions .button{width:auto;font-size:10px}.aroma-sample .detail-facts{flex-direction:column;font-size:10px}.aroma-sample .service-article{width:calc(100% - 36px);padding:32px 0 38px;font-size:14px}.aroma-sample .service-article p{font-size:14px;line-height:1.75}.aroma-sample .service-article>h2{font-size:18px;line-height:1.55;margin-top:27px}.aroma-sample .service-article>h2:first-child{font-size:17px;margin-bottom:22px}.aroma-sample .sample-price-card{grid-template-columns:1fr;gap:0;padding:12px;margin:20px 0 26px}.aroma-sample .sample-price-card>img{min-height:0;aspect-ratio:1.5;height:auto}.aroma-sample .sample-price-card>div{padding:22px 12px 12px}.aroma-sample .sample-price-card h2{font-size:25px;margin-bottom:15px}.aroma-sample .sample-price-card .button{margin-top:6px}.aroma-sample .service-article figcaption{font-size:10px}.aroma-sample .service-article>.detail-price-table{padding:13px 15px}.aroma-sample .detail-contact{padding:23px 20px}.aroma-sample .detail-contact h2{font-size:28px}.aroma-sample .detail-related{padding:33px 0 38px}.aroma-sample .detail-related .service-grid{gap:24px 15px}.aroma-sample .detail-related .service-copy h3{font-size:21px}.aroma-sample .detail-related .service-price>a{width:34px;height:34px}}

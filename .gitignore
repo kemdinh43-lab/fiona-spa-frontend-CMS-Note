@@ -1,0 +1,15 @@
+node_modules/
+dist/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+src/package-lock.json
+.env
+.env.*
+!.env.example
+.vercel/
+.wrangler/
+.dev.vars*
+.playwright-cli/
+tmp/
+source-assets/

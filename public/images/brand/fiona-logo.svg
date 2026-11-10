@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" role="img" aria-labelledby="title desc">
+  <title id="title">Fiona Beauty &amp; Spa</title>
+  <desc id="desc">Fiona Beauty and Spa brand logo inspired by the provided shop logo.</desc>
+  <defs>
+    <linearGradient id="fionaGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B94A16" />
+      <stop offset="100%" stop-color="#F06D32" />
+    </linearGradient>
+    <linearGradient id="goldGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#B89313" />
+      <stop offset="100%" stop-color="#D4AF25" />
+    </linearGradient>
+  </defs>
+  <rect width="720" height="260" fill="none" />
+  <path d="M135 104C180 62 272 22 398 18c101-3 134 21 128 56-3 18-18 38-38 51" fill="none" stroke="url(#fionaGradient)" stroke-width="12" stroke-linecap="round" />
+  <path d="M332 43C305 83 267 130 229 187c-18 27-32 52-38 72" fill="none" stroke="#B84A17" stroke-width="13" stroke-linecap="round" />
+  <path d="M150 174c47-10 103-13 165-12" fill="none" stroke="#B84A17" stroke-width="10" stroke-linecap="round" />
+  <text x="263" y="176" font-family="Brush Script MT, Segoe Script, Snell Roundhand, cursive" font-size="130" font-weight="400" fill="url(#fionaGradient)" letter-spacing="-4">iona</text>
+  <g transform="translate(418 82) scale(1.05)">
+    <path d="M39 14c9 12 10 25 0 40-10-15-9-28 0-40Z" fill="url(#goldGradient)" />
+    <path d="M19 26c14 4 22 13 24 28-16-2-25-10-24-28Z" fill="url(#goldGradient)" />
+    <path d="M59 26c-14 4-22 13-24 28 16-2 25-10 24-28Z" fill="url(#goldGradient)" />
+    <path d="M5 48c17-1 30 5 39 18-17 3-31-2-39-18Z" fill="url(#goldGradient)" />
+    <path d="M73 48c-17-1-30 5-39 18 17 3 31-2 39-18Z" fill="url(#goldGradient)" />
+    <path d="M-8 88c25-22 50-25 75-9" fill="none" stroke="#C8A018" stroke-width="4" stroke-linecap="round" />
+    <path d="M0 98c24-16 47-18 69-5" fill="none" stroke="#C8A018" stroke-width="4" stroke-linecap="round" />
+  </g>
+  <text x="272" y="229" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="17" fill="#C8A018">BEAUTY &amp; SPA</text>
+</svg>

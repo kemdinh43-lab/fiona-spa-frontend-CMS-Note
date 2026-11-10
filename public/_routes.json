@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "include": ["/*"],
+  "exclude": [
+    "/",
+    "/about",
+    "/services",
+    "/services/*",
+    "/packages",
+    "/booking",
+    "/gallery",
+    "/blog",
+    "/blog/*",
+    "/assets/*",
+    "/images/*",
+    "/favicon.jpg",
+    "/og-image.png"
+  ]
+}

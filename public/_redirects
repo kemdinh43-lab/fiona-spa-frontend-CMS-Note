@@ -1,0 +1,14 @@
+# Keep these redirects aligned with vercel.json.
+/ /en 301
+/about /en/about 301
+/services /en/services 301
+/en/services/physical-therapy /en/services/sport-massage 301
+/services/physical-therapy /en/services/sport-massage 301
+/packages /en/packages 301
+/booking /en/booking 301
+/gallery /en/gallery 301
+/blog /en/blog 301
+/services/:slug /en/services/:slug 301
+/blog/:slug /en/blog/:slug 301
+
+# Cloudflare Pages serves index.html as the SPA fallback when no 404.html exists.

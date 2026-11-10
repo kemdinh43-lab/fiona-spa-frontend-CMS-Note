@@ -1,0 +1,11 @@
+node_modules
+dist
+.vercel
+.playwright-cli
+tmp
+source-assets
+docs
+scripts/optimize_service_gallery.py
+*.tsbuildinfo
+.env
+.env.*
